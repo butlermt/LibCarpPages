@@ -1,4 +1,4 @@
-*OMG a index file*
+*Good gracious! An index file.*
 
 1. Partridge in a pear tree
 2. Turtle doves
